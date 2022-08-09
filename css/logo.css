@@ -1,0 +1,63 @@
+a:link {color:#B25068; text-decoration: none;}
+a:visited {color:#B25068; text-decoration: none;}
+a:hover {color: #f8d3b4;text-decoration: none;}
+
+* {
+    padding: 0%;
+    margin: 0px;
+    background-color: #f8d3b4;
+    align-items: center;
+}
+
+.logoGrid {
+    display: grid;
+    justify-items:center;
+    border-color: #4C3A51;
+    grid-template-rows: 60px auto;
+    height: 100vh;
+    width: 100%;
+}
+
+.main_menu {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+
+ul {
+    display: inline-flex;
+    font-family: 'Nunito', sans-serif;
+    padding: 25px;
+    text-align: center;
+    gap: 46px;
+    font-size: 20px;
+    color: #4C3A51;
+    list-style: none;
+    text-emphasis-color: #B25068;
+    offset-position: 0px;
+}
+
+.fotito_Grid {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    display: flex;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+#fotito {
+    display: block;
+    width: 100%;
+    height: auto;
+    align-items: center;
+justify-content: center;
+    /*
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+*/
+  }    
+
