@@ -4,4 +4,4 @@ TERCER DESAFIO ENTREGABLE
 
 Emplee una combinación de flex y grids para crear un diseño de la barra de navegación (pagina LOGO) mas o menos responsive. Se adapta al tamaño del iframe, en el INDEX se amplia para cubrir una pagina completa, y en las demás pestañas se mantiene con una altura de 260px
 
-Trate de utilizar media queries para cambiar la orientacion del grid en BIO, pero no logro que cambie de orientacion.
+Trate de utilizar media queries para cambiar la orientacion del grid en BIO, pero no logro que cambie de orientacion. No entiendo que sucede con el media query, creo que fui lo suficientemente claro.
